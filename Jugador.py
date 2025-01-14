@@ -1,4 +1,4 @@
-from Carta import *
+import Carta
 
 class Jugador:
     def __init__(self, nombre):
@@ -52,8 +52,7 @@ class Jugador:
                 print(f"{self.get_nombre()} ahora tiene {self.get_vida()} puntos de vida.")
 
             if carta.get_nombre() == "Rayo Concentrado":
-                count = 0
-                lista = []               
+                count = 0              
                 # Aumenta el ataque de un monstruo tipo Dragón seleccionado
                 for mounstruo in self.get_tablero_magicas_trampa():
                         
