@@ -1,0 +1,30 @@
+Dragon Rojo, "Dragón de fuego que destruye todo a su paso", "Monstruo", 2500, 2000, "D", "FUEGO"
+Lanzador Mágico, "Monstruo que lanza hechizos poderosos", "Monstruo", 1500, 1000, "L", "LUZ"
+Zombi Infierno, "Zombi con poderes oscuros", "Monstruo", 1800, 1500, "Z", "OSCURIDAD"
+Guerrero Valiente, "Guerrero de gran coraje", "Monstruo", 1600, 1200, "G", "TIERRA"
+Bestia Salvaje, "Bestia feroz que ataca sin piedad", "Monstruo", 1700, 1300, "B", "AGUA"
+Demonio Sombrio, "Demonio con poderes maléficos", "Monstruo", 2000, 1200, "O", "OSCURIDAD"
+Dragon Oscuro, "Dragón con poder sobre las sombras", "Monstruo", 2300, 1800, "D", "OSCURIDAD"
+Guerrero Acorazado, "Guerrero con armadura de acero", "Monstruo", 1900, 1500, "G", "TIERRA"
+Lanzador de Truenos, "Lanzador que controla rayos", "Monstruo", 1800, 1000, "L", "VIENTO"
+Zombi Inmortal, "Zombi que nunca muere", "Monstruo", 2100, 2000, "Z", "TIERRA"
+Dragon de Fuego, "Dragón que ataca con llamas ardientes", "Monstruo", 2400, 1900, "D", "FUEGO"
+Guerrero Sombrio, "Guerrero con habilidades oscuras", "Monstruo", 1700, 1300, "G", "OSCURIDAD"
+Bestia Mistica, "Bestia mágica que ataca con energía espiritual", "Monstruo", 1600, 1400, "B", "LUZ"
+Demonio Infernal, "Demonio del inframundo con gran poder", "Monstruo", 2200, 1800, "O", "FUEGO"
+Dragon Ancestral, "Dragón antiguo que custodia grandes secretos", "Monstruo", 2600, 2100, "D", "TIERRA"
+Guerrero Fantasmal, "Guerrero que resucita desde el más allá", "Monstruo", 1400, 1000, "G", "LUZ"
+Lanzador Espacial, "Lanzador con habilidades tecnológicas", "Monstruo", 1500, 1300, "L", "AGUA"
+Zombi Sanguinario, "Zombi que se alimenta de la sangre de sus víctimas", "Monstruo", 1900, 1600, "Z", "OSCURIDAD"
+Bestia Sombra, "Bestia que se oculta en la oscuridad", "Monstruo", 1800, 1400, "B", "OSCURIDAD"
+Demonio de las Sombras, "Demonio que emerge de las sombras", "Monstruo", 2400, 2000, "O", "LUZ"
+Espada de Arturo, "Aumenta el ataque de los guerreros", "Mágica", "Guerrero", 200
+Escudo de Chamelote, "Aumenta la defensa de los guerreros", "Mágica", "Guerrero", 200
+Pocion de Vida, "Restaura 500 puntos de vida a un jugador", "Mágica", "Ninguno", 0
+Rayo Concentrado, "Aumenta el ataque de un monstruo de tipo Dragón", "Mágica", "Dragón", 300
+Barrera de Magia, "Protege un monstruo de los ataques", "Mágica", "Ninguno", 0
+Tornado de Polvo, "Detiene el ataque de un monstruo de atributo VIENTO", "Trampa", "VIENTO"
+Fuego Sagrado, "Detiene el ataque de un monstruo de atributo FUEGO", "Trampa", "FUEGO"
+Escudo Antimagico, "Detiene el ataque de un monstruo de atributo LUZ", "Trampa", "LUZ"
+Rayo Mortifero, "Detiene el ataque de un monstruo de atributo OSCURIDAD", "Trampa", "OSCURIDAD"
+Cruzada Elemental, "Detiene el ataque de un monstruo de atributo TIERRA", "Trampa", "TIERRA"
